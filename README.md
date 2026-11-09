@@ -4,8 +4,8 @@
 
 I secure and run production Kubernetes. I also tell dad jokes, mostly to people who can't leave the call.
 
-[![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?logo=kubernetes&logoColor=white)](https://www.cncf.io/training/certification/cka/)
-[![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?logo=kubernetes&logoColor=white)](https://www.cncf.io/training/certification/ckad/)
+[![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?logo=kubernetes&logoColor=white)](https://training.linuxfoundation.org/certification/verify/ "Certificate ID: LF-kthu3zpf98")
+[![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?logo=kubernetes&logoColor=white)](https://training.linuxfoundation.org/certification/verify/ "Certificate ID: LF-746tb2slv6")
 [![CKS](https://img.shields.io/badge/CKS-in%20progress-lightgrey?logo=kubernetes&logoColor=white)](https://www.cncf.io/training/certification/cks/)
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
