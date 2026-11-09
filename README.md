@@ -17,7 +17,6 @@ I secure and run production Kubernetes. I also tell dad jokes, mostly to people 
 - 🎓 Mathematician by training (MSc in Operations Research, University of Padua)
 - 🚩 CTF player on Hack The Box
 - 🤼 Wrestling fan, so I know a good takedown when I see one, in the ring or in prod
-- 👨‍👧 Dad joke enthusiast. My pods have trust issues: too many broken containers in their past
 
 ## 📚 What I'm studying and hacking on
 
